@@ -1,4 +1,4 @@
-# Awesome Telegram Chats
+# Awesome Telegram Chats & Channels
 
 A collection of awesome things you can read in telegram.
 
@@ -27,6 +27,7 @@ A collection of awesome things you can read in telegram.
 - [Python RU](https://telegram.me/ru_python)
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
 - [DBA_RU](https://telegram.me/dba_ru)
+- [For Web](https://telegram.me/forwebdev)
 
 ### Contribution
 
