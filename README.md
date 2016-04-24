@@ -22,6 +22,7 @@ A collection of awesome things you can read in telegram.
 - [PRO.Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
 - [PRO.Windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw)
 - [PRO.ASM](https://telegram.me/proAsm)
+- [PRO.CSS](https://telegram.me/procss)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
