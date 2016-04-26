@@ -29,6 +29,18 @@ A collection of awesome things you can read in telegram.
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
 - [DBA_RU](https://telegram.me/dba_ru)
 - [For Web](https://telegram.me/forwebdev)
+- [Group Linux](https://telegram.me/grouplinux)
+- [Networking](https://telegram.me/ntwrk)
+- [DEF CON](https://telegram.me/DC7499)
+- [GNU](https://telegram.me/gentoochuu)
+- [SPB Python](https://telegram.me/spbpython)
+- [Groups/Conference](https://telegram.me/spbpython)
+- [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
+- [Библиотека программиста](https://telegram.me/proglibrary)
+- [Docker Russian](https://telegram.me/ru_docker)
+- [FreeBSD](https://telegram.me/freebsd_ru)
+- [MongoDB](https://telegram.me/MongoDBRussian)
+- [PostgreSQL](https://telegram.me/ru_postgresql)
 
 ### Contribution
 
