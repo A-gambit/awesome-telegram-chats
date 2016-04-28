@@ -5,6 +5,7 @@ A collection of awesome things you can read in telegram.
 ### Russian
 
 - [React.js](https://telegram.me/react_js)
+- [React Native](https://telegram.me/reactnative_ru)
 - [Angular.js](https://telegram.me/angular_js)
 - [Node.js](https://telegram.me/nodejs_ru)
 - [Веб-стандарты](https://telegram.me/webstandards_ru)
