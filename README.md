@@ -10,6 +10,7 @@ A collection of awesome things you can read in telegram.
 - [Node.js](https://telegram.me/nodejs_ru)
 - [Веб-стандарты](https://telegram.me/webstandards_ru)
 - [JSlang](https://telegram.me/JSlang)
+- [БЭМ](https://telegram.me/bem_ru)
 - [PRO.C](https://telegram.me/proCxx)
 - [PRO.DOTNET](https://telegram.me/dotnetchat)
 - [PRO.JVM](https://telegram.me/JVMchat)
