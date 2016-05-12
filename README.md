@@ -39,6 +39,7 @@ A collection of awesome things you can read in telegram.
 - [Groups/Conference](https://telegram.me/spbpython)
 - [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
 - [Библиотека программиста](https://telegram.me/proglibrary)
+- [Haskell](https://telegram.me/haskellru)
 - [Docker Russian](https://telegram.me/ru_docker)
 - [FreeBSD](https://telegram.me/freebsd_ru)
 - [MongoDB](https://telegram.me/MongoDBRussian)
