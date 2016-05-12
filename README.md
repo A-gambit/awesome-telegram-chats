@@ -12,7 +12,6 @@ A collection of awesome things you can read in telegram.
 - [JSlang](https://telegram.me/JSlang)
 - [БЭМ](https://telegram.me/bem_ru)
 - [PRO.C](https://telegram.me/proCxx)
-- [PRO.DOTNET](https://telegram.me/dotnetchat)
 - [PRO.JVM](https://telegram.me/JVMchat)
 - [PRO.GO](https://telegram.me/proGo)
 - [PRO.RUST](https://telegram.me/proRust)
