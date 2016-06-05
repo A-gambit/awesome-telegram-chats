@@ -26,6 +26,7 @@ A collection of awesome things you can read in telegram.
 - [PRO.CSS](https://telegram.me/procss)
 - [PRO.Elixir](https://telegram.me/proelixir)
 - [PRO.Dlang](https://telegram.me/prodlang)
+- [PRO.PHP](https://telegram.me/prophp7)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
