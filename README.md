@@ -46,7 +46,7 @@ A collection of awesome things you can read in telegram.
 - [Docker Russian](https://telegram.me/ru_docker)
 - [FreeBSD](https://telegram.me/freebsd_ru)
 - [MongoDB](https://telegram.me/MongoDBRussian)
-- [PostgreSQL](https://telegram.me/ru_postgresql)
+- [PostgreSQL](https://telegram.me/pgsql)
 - [Web Structure](https://telegram.me/web_structure)
 
 ### Contribution
