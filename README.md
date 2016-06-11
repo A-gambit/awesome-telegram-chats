@@ -2,7 +2,7 @@
 
 A collection of awesome things you can read in telegram.
 
-### Russian
+## Russian
 
 #### Channels
 
