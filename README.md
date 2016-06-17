@@ -54,6 +54,11 @@ A collection of awesome things you can read in telegram.
 - [MongoDB](https://telegram.me/MongoDBRussian)
 - [PostgreSQL](https://telegram.me/pgsql)
 - [Web Structure](https://telegram.me/web_structure)
+- [Android Patterns](https://telegram.me/joinchat/AwzlGwjYhbd5dVP0tDAMtQ)
+- [Android RX](https://telegram.me/joinchat/AwzlGwe-NNaCtH4N1EQpjw)
+- [Android Kotlin](https://telegram.me/joinchat/AwzlGwh_SbAgL5uPwENsCg)
+- [Android Testing](https://telegram.me/joinchat/AwzlGwgaAeI5viENj1fuYA)
+- [Android JOB](https://telegram.me/joinchat/AwzlGwbLr3mxFZ0vtD8OZQ)
 
 ## Contribution
 
