@@ -61,6 +61,7 @@ A collection of awesome things you can read in telegram.
 - [Android Kotlin](https://telegram.me/joinchat/AwzlGwh_SbAgL5uPwENsCg)
 - [Android Testing](https://telegram.me/joinchat/AwzlGwgaAeI5viENj1fuYA)
 - [Android JOB](https://telegram.me/joinchat/AwzlGwbLr3mxFZ0vtD8OZQ)
+- [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 
 ## Contribution
 
