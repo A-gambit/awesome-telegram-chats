@@ -37,6 +37,8 @@ A collection of awesome things you can read in telegram.
 - [PRO.Dlang](https://telegram.me/prodlang)
 - [PRO.PHP](https://telegram.me/prophp7)
 - [PRO.Embedded](https://telegram.me/proembedded)
+- [PRO.Telecom](https://telegram.me/protelecom)
+- [PRO.Zabbix](https://telegram.me/prozabbix)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
