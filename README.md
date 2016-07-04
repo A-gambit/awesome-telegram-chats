@@ -16,6 +16,7 @@ A collection of awesome things you can read in telegram.
 - [React Native](https://telegram.me/reactnative_ru)
 - [Angular.js](https://telegram.me/angular_js)
 - [Node.js](https://telegram.me/nodejs_ru)
+- [JavaScript Jobs](https://telegram.me/javascript_jobs)
 - [JSlang](https://telegram.me/JSlang)
 - [TypeScript](https://telegram.me/joinchat/CymduD8d8RrQ1-ldWD8VmA)
 - [БЭМ](https://telegram.me/bem_ru)
@@ -37,6 +38,7 @@ A collection of awesome things you can read in telegram.
 - [PRO.PHP](https://telegram.me/prophp7)
 - [PRO.Embedded](https://telegram.me/proembedded)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
+- [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
