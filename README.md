@@ -43,6 +43,7 @@ A collection of awesome things you can read in telegram.
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
+- [Modern::Perl](https://telegram.me/modernperl)
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
 - [DBA_RU](https://telegram.me/dba_ru)
 - [Group Linux](https://telegram.me/grouplinux)
