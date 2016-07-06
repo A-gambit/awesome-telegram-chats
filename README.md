@@ -37,10 +37,13 @@ A collection of awesome things you can read in telegram.
 - [PRO.Dlang](https://telegram.me/prodlang)
 - [PRO.PHP](https://telegram.me/prophp7)
 - [PRO.Embedded](https://telegram.me/proembedded)
+- [PRO.Telecom](https://telegram.me/protelecom)
+- [PRO.Zabbix](https://telegram.me/prozabbix)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
+- [Modern::Perl](https://telegram.me/modernperl)
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
 - [DBA_RU](https://telegram.me/dba_ru)
 - [Group Linux](https://telegram.me/grouplinux)
@@ -63,6 +66,8 @@ A collection of awesome things you can read in telegram.
 - [Android JOB](https://telegram.me/joinchat/AwzlGwbLr3mxFZ0vtD8OZQ)
 - [Freelancers & Remote workers](https://telegram.me/ru_freelancers)
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed)
+- [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
+- [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
 
 
 ## Contribution
