@@ -62,6 +62,7 @@ A collection of awesome things you can read in telegram.
 - [Android Testing](https://telegram.me/joinchat/AwzlGwgaAeI5viENj1fuYA)
 - [Android JOB](https://telegram.me/joinchat/AwzlGwbLr3mxFZ0vtD8OZQ)
 - [Freelancers & Remote workers](https://telegram.me/ru_freelancers)
+- [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/ru_freelancers)
 
 
 ## Contribution
