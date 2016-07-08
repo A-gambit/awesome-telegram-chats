@@ -29,7 +29,7 @@ A collection of awesome things you can read in telegram.
 - [PRO.LISP](https://telegram.me/joinchat/Be4rsTvFzQ4yIktHsNNYrA)
 - [PRO.LUA](https://telegram.me/proLUA)
 - [PRO.Apple](https://telegram.me/proApple)
-- [PRO.Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
+- [PRO.Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA) - not working
 - [PRO.Windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw)
 - [PRO.ASM](https://telegram.me/proAsm)
 - [PRO.CSS](https://telegram.me/procss)
@@ -68,6 +68,8 @@ A collection of awesome things you can read in telegram.
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed)
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 - [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
+- [Dev-Ops] (https://telegram.me/devops_ru) - Общаемся и обсуждаем темы, посвященные DevOps, Docker, Mesos,DC/OS, CoreOS
+- [Трактор over IP] (https://telegram.me/ntwrk) - Network chat. 
 
 
 ## Contribution
