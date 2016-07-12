@@ -40,6 +40,7 @@ A collection of awesome things you can read in telegram.
 - [PRO.Telecom](https://telegram.me/protelecom)
 - [PRO.Zabbix](https://telegram.me/prozabbix)
 - [Ansible](https://telegram.me/pro_ansible)
+- [Puppet](https://telegram.me/ru_Puppet)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
