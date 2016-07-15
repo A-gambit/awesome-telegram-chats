@@ -39,6 +39,7 @@ A collection of awesome things you can read in telegram.
 - [PRO.Embedded](https://telegram.me/proembedded)
 - [PRO.Telecom](https://telegram.me/protelecom)
 - [PRO.Zabbix](https://telegram.me/prozabbix)
+- [PRO.OpenStack](https://telegram.me/pro_openstack)
 - [Ansible](https://telegram.me/pro_ansible)
 - [Puppet](https://telegram.me/ru_Puppet)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
@@ -70,6 +71,7 @@ A collection of awesome things you can read in telegram.
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed)
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 - [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
+- [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
 
 
 ## Contribution
