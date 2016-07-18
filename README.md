@@ -17,6 +17,9 @@ A collection of awesome things you can read in telegram.
 - [Angular.js](https://telegram.me/angular_js)
 - [Node.js](https://telegram.me/nodejs_ru)
 - [JavaScript Jobs](https://telegram.me/javascript_jobs)
+- [iOS Developers](https://telegram.me/ios_ru) - общение по теме iOS-разработки, Objective-C, Swift, SDK, Cocoa и т.д.
+- [Android Developers](https://telegram.me/android_ru) - общение по теме Android-разработки, SDK, Kotlin, Realm и т.д.
+- [Mobile Jobs](https://telegram.me/mobile_jobs) - аналитика, вакансии и запросы на поиск работы по направлению iOS, Android, Xamarin и т.д
 - [JSlang](https://telegram.me/JSlang)
 - [TypeScript](https://telegram.me/joinchat/CymduD8d8RrQ1-ldWD8VmA)
 - [БЭМ](https://telegram.me/bem_ru)
