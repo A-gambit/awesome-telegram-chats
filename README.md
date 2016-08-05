@@ -9,6 +9,7 @@ A collection of awesome things you can read in telegram.
 - [For Web](https://telegram.me/forwebdev)
 - [Веб-стандарты](https://telegram.me/webstandards_ru)
 - [Библиотека программиста](https://telegram.me/proglibrary)
+- [DevOps News](https://telegram.me/devops_news)
 
 #### Supergroups
 
