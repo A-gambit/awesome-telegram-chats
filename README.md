@@ -56,6 +56,7 @@ A collection of awesome things you can read in telegram.
 - [Networking](https://telegram.me/ntwrk)
 - [DEF CON](https://telegram.me/DC7499)
 - [GNU](https://telegram.me/gentoochuu)
+- [Scala] (https://telegram.me/joinchat/AaPKaj2kTiOww7NAqYHabQ)
 - [SPB Python](https://telegram.me/spbpython)
 - [Groups/Conference](https://telegram.me/spbpython)
 - [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
