@@ -16,6 +16,7 @@ A collection of awesome things you can read in telegram.
 - [React.js](https://telegram.me/react_js)
 - [React Native](https://telegram.me/reactnative_ru)
 - [Angular.js](https://telegram.me/angular_js)
+- [Cycle.js](https://telegram.me/cyclejs_ru)
 - [Node.js](https://telegram.me/nodejs_ru)
 - [JavaScript Jobs](https://telegram.me/javascript_jobs)
 - [iOS Developers](https://telegram.me/ios_ru) - общение по теме iOS-разработки, Objective-C, Swift, SDK, Cocoa и т.д.
