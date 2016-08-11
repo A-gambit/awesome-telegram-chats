@@ -50,8 +50,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [PRO.OpenStack](https://telegram.me/pro_openstack)
 - [Ansible](https://telegram.me/pro_ansible)
 - [Puppet](https://telegram.me/ru_Puppet)
-- [DEVOPS_RU](https://telegram.me/devops_ru)
-- [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳
+- [DEVOPS_RU](https://telegram.me/devops_ru) && [RU_DEVOPS](https://telegram.me/ru_devops) группы отличаются лишь модерацией.
+- [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳 && [ru_docker](https://telegram.me/ru_docker) 
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
@@ -81,8 +81,10 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) - Криптовалюты, mesh и другие средства личной свободы
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 - [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
+- [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.   
 - [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
 - [Политика](https://telegram.me/ru_politics) - Политические обсуждения
+
 
 ## Contribution
 
