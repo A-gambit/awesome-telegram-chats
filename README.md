@@ -2,6 +2,9 @@
 
 A collection of awesome things you can read in telegram.
 
+Take a minute and have a look at collection of Open Source Examples, Libraries and Starter Kits for Telegram Bots to speed up your learning process - [awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots).
+
+
 ## Russian
 
 #### Channels
