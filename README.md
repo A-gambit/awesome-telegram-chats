@@ -48,6 +48,7 @@ A collection of awesome things you can read in telegram.
 - [Ansible](https://telegram.me/pro_ansible)
 - [Puppet](https://telegram.me/ru_Puppet)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
+- [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
