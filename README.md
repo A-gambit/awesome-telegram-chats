@@ -52,6 +52,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Puppet](https://telegram.me/ru_Puppet)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
 - [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳
+- [Docker Russian](https://telegram.me/ru_docker)
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
@@ -67,7 +68,6 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Groups/Conference](https://telegram.me/spbpython)
 - [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
 - [Haskell](https://telegram.me/haskellru)
-- [Docker Russian](https://telegram.me/ru_docker)
 - [FreeBSD](https://telegram.me/freebsd_ru)
 - [MongoDB](https://telegram.me/MongoDBRussian)
 - [PostgreSQL](https://telegram.me/pgsql)
