@@ -25,9 +25,11 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [iOS Developers](https://telegram.me/ios_ru) - общение по теме iOS-разработки, Objective-C, Swift, SDK, Cocoa и т.д.
 - [Android Developers](https://telegram.me/android_ru) - общение по теме Android-разработки, SDK, Kotlin, Realm и т.д.
 - [Mobile Jobs](https://telegram.me/mobile_jobs) - аналитика, вакансии и запросы на поиск работы по направлению iOS, Android, Xamarin и т.д
+- [RU.SYSADMIN](https://telegram.me/ru_sysadmin) - Системные администраторы
 - [JSlang](https://telegram.me/JSlang)
 - [TypeScript](https://telegram.me/joinchat/CymduD8d8RrQ1-ldWD8VmA)
 - [БЭМ](https://telegram.me/bem_ru)
+- [radio](https://telegram.me/proradio) - Чат про радио и радиовещание, Djin
 - [PRO.C](https://telegram.me/proCxx)
 - [PRO.JVM](https://telegram.me/JVMchat)
 - [PRO.GO](https://telegram.me/proGo)
@@ -51,20 +53,23 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Ansible](https://telegram.me/pro_ansible)
 - [Puppet](https://telegram.me/ru_Puppet)
 - [DEVOPS_RU](https://telegram.me/devops_ru) && [RU_DEVOPS](https://telegram.me/ru_devops) группы отличаются лишь модерацией.
-- [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳 && [ru_docker](https://telegram.me/ru_docker) 
+- [ru_docker](https://telegram.me/ru_docker) && [docker_ru](https://telegram.me/docker_ru) - русскоговорящие сообщества Docker 🐳 
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
 - [Modern::Perl](https://telegram.me/modernperl)
-- [RU_Ubuntu](https://telegram.me/ru_ubuntu)
+- [Ubuntu Linux](https://telegram.me/ru_ubuntu) - сообщество пользователей Ubuntu
+- [Fedora](https://telegram.me/fedora) - A group chat for Fedora users. Please use English.
+- [RussianFedora](https://telegram.me/russianfedora) - Групповой чат русскоязычных поклонников дистрибутива Fedora. А так же пользователей RFRemix.
 - [DBA_RU](https://telegram.me/dba_ru)
 - [Group Linux](https://telegram.me/grouplinux)
 - [Networking](https://telegram.me/ntwrk)
 - [DEF CON](https://telegram.me/DC7499)
 - [GNU](https://telegram.me/gentoochuu)
-- [Scala] (https://telegram.me/joinchat/AaPKaj2kTiOww7NAqYHabQ)
+- [Scala](https://telegram.me/joinchat/AaPKaj2kTiOww7NAqYHabQ)
 - [SPB Python](https://telegram.me/spbpython)
 - [Groups/Conference](https://telegram.me/spbpython)
+- [MikrotikRu](https://telegram.me/MikrotikRu) - Mikrotik
 - [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
 - [Haskell](https://telegram.me/haskellru)
 - [Docker Russian](https://telegram.me/ru_docker)
@@ -82,6 +87,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 - [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
 - [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.   
+- [spb_auto](https://telegram.me/spb_auto) - Сообщество петербургских автолюбителей spb_auto
 - [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
 - [Политика](https://telegram.me/ru_politics) - Политические обсуждения
 
