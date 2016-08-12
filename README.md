@@ -50,8 +50,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [PRO.OpenStack](https://telegram.me/pro_openstack)
 - [Ansible](https://telegram.me/pro_ansible)
 - [Puppet](https://telegram.me/ru_Puppet)
-- [DEVOPS_RU](https://telegram.me/devops_ru) && [RU_DEVOPS](https://telegram.me/ru_devops) группы отличаются лишь модерацией.
-- [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳 && [ru_docker](https://telegram.me/ru_docker) 
+- [DEVOPS_RU](https://telegram.me/devops_ru)
+- [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
@@ -67,6 +67,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Groups/Conference](https://telegram.me/spbpython)
 - [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
 - [Haskell](https://telegram.me/haskellru)
+- [RU_DEVOPS](https://telegram.me/ru_devops)
 - [Docker Russian](https://telegram.me/ru_docker)
 - [FreeBSD](https://telegram.me/freebsd_ru)
 - [MongoDB](https://telegram.me/MongoDBRussian)
