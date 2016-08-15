@@ -51,7 +51,9 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Ansible](https://telegram.me/pro_ansible)
 - [Puppet](https://telegram.me/ru_Puppet)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
+- [ru_devops] (https://telegram.me/ru_devops) Русскоговорящее сообщество DevOps
 - [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳
+- [ru_docker](https://telegram.me/ru_docker) - Ламповая атмосфера
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
