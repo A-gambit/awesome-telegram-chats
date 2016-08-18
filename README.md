@@ -12,7 +12,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [For Web](https://telegram.me/forwebdev)
 - [Веб-стандарты](https://telegram.me/webstandards_ru)
 - [Библиотека программиста](https://telegram.me/proglibrary)
-- [DevOps News](https://telegram.me/devops_news)
+- [DevOps News](https://telegram.me/devops_news) - О Devops и всём, что рядом. Лучшие практики от Netflix, Uber и т.д. 
+- [Code News](https://telegram.me/code_news) - Программирование, алгоритмы, лайфхаки, архитектура.
 
 #### Supergroups
 
