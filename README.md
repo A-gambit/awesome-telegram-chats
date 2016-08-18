@@ -2,6 +2,9 @@
 
 A collection of awesome things you can read in telegram.
 
+Take a minute and have a look at collection of Open Source Examples, Libraries and Starter Kits for Telegram Bots to speed up your learning process - [awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots).
+
+
 ## Russian
 
 #### Channels
@@ -16,6 +19,7 @@ A collection of awesome things you can read in telegram.
 - [React.js](https://telegram.me/react_js)
 - [React Native](https://telegram.me/reactnative_ru)
 - [Angular.js](https://telegram.me/angular_js)
+- [Cycle.js](https://telegram.me/cyclejs_ru)
 - [Node.js](https://telegram.me/nodejs_ru)
 - [JavaScript Jobs](https://telegram.me/javascript_jobs)
 - [iOS Developers](https://telegram.me/ios_ru) - общение по теме iOS-разработки, Objective-C, Swift, SDK, Cocoa и т.д.
@@ -47,6 +51,7 @@ A collection of awesome things you can read in telegram.
 - [Ansible](https://telegram.me/pro_ansible)
 - [Puppet](https://telegram.me/ru_Puppet)
 - [DEVOPS_RU](https://telegram.me/devops_ru)
+- [docker_ru](https://telegram.me/docker_ru) - русскоговорящее сообщество 🐳
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) - Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
@@ -57,10 +62,12 @@ A collection of awesome things you can read in telegram.
 - [Networking](https://telegram.me/ntwrk)
 - [DEF CON](https://telegram.me/DC7499)
 - [GNU](https://telegram.me/gentoochuu)
+- [Scala] (https://telegram.me/joinchat/AaPKaj2kTiOww7NAqYHabQ)
 - [SPB Python](https://telegram.me/spbpython)
 - [Groups/Conference](https://telegram.me/spbpython)
 - [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
 - [Haskell](https://telegram.me/haskellru)
+- [RU_DEVOPS](https://telegram.me/ru_devops)
 - [Docker Russian](https://telegram.me/ru_docker)
 - [FreeBSD](https://telegram.me/freebsd_ru)
 - [MongoDB](https://telegram.me/MongoDBRussian)
@@ -71,11 +78,13 @@ A collection of awesome things you can read in telegram.
 - [Android Kotlin](https://telegram.me/joinchat/AwzlGwh_SbAgL5uPwENsCg)
 - [Android Testing](https://telegram.me/joinchat/AwzlGwgaAeI5viENj1fuYA)
 - [Android JOB](https://telegram.me/joinchat/AwzlGwbLr3mxFZ0vtD8OZQ)
-- [Freelancers & Remote workers](https://telegram.me/ru_freelancers)
-- [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed)
+- [Freelancers & Remote workers](https://telegram.me/ru_freelancers) - Чат практикующих и интересующихся удаленной работой и самозанятостью
+- [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) - Криптовалюты, mesh и другие средства личной свободы
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 - [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
+- [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.   
 - [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
+- [Политика](https://telegram.me/ru_politics) - Политические обсуждения
 
 
 ## Contribution
