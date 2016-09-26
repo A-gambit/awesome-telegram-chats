@@ -21,6 +21,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [React Native](https://telegram.me/reactnative_ru)
 - [Angular.js](https://telegram.me/angular_js)
 - [Cycle.js](https://telegram.me/cyclejs_ru)
+- [Vue.js](https://telegram.me/vuejs_ru)
 - [Node.js](https://telegram.me/nodejs_ru)
 - [JavaScript Jobs](https://telegram.me/javascript_jobs)
 - [iOS Developers](https://telegram.me/ios_ru) - общение по теме iOS-разработки, Objective-C, Swift, SDK, Cocoa и т.д.
