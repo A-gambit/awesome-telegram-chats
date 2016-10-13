@@ -14,6 +14,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Библиотека программиста](https://telegram.me/proglibrary)
 - [DevOps News](https://telegram.me/devops_news) - О Devops и всём, что рядом. Лучшие практики от Netflix, Uber и т.д. 
 - [Code News](https://telegram.me/code_news) - Программирование, алгоритмы, лайфхаки, архитектура.
+- [Hacker News](https://telegram.me/hacker_news_feed) - Top stories from Hacker News.
 
 #### Supergroups
 
