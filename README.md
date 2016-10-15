@@ -88,7 +88,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.   
 - [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
 - [Политика](https://telegram.me/ru_politics) - Политические обсуждения
-
+- [Про электронику](https://telegram.me/ru_electronics) - QA чат для решения вопросов, связанных с электроникой. Без стикеров, непрошенной рекламы и игр в русский форум
+- [Анархическая электроника](https://telegram.me/ru_arduino) - около и электронные темы. без переходов на личности, стен стикеров, политики, непрошенной рекламы и всякого такого
 
 ## Contribution
 
