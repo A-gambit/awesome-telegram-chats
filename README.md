@@ -91,6 +91,12 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Про электронику](https://telegram.me/ru_electronics) - QA чат для решения вопросов, связанных с электроникой. Без стикеров, непрошенной рекламы и игр в русский форум
 - [Анархическая электроника](https://telegram.me/ru_arduino) - около и электронные темы. без переходов на личности, стен стикеров, политики, непрошенной рекламы и всякого такого
 
+## BeerJS
+
+- [Москва](https://telegram.me/beerjs)
+- [Киев](https://telegram.me/beerjskyiv)
+- [Харьков](https://telegram.me/beerjskharkiv)
+
 ## Contribution
 
 Your contributions and suggestions are heartily welcome. =^.^=
