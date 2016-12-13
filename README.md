@@ -68,7 +68,6 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Scala] (https://telegram.me/joinchat/AaPKaj2kTiOww7NAqYHabQ)
 - [SPB Python](https://telegram.me/spbpython)
 - [Groups/Conference](https://telegram.me/spbpython)
-- [Linux](https://telegram.me/joinchat/A2eDLzu6qWFlMl2nLn9SEA)
 - [Haskell](https://telegram.me/haskellru)
 - [RU_DEVOPS](https://telegram.me/ru_devops)
 - [Docker Russian](https://telegram.me/ru_docker)
