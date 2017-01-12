@@ -25,6 +25,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Vue.js](https://telegram.me/vuejs_ru)
 - [Node.js](https://telegram.me/nodejs_ru)
 - [JavaScript Jobs](https://telegram.me/javascript_jobs)
+- [@flowtype_ru](https://telegram.me/flowtype_ru) - Flow type static checker for JS
 - [iOS Developers](https://telegram.me/ios_ru) - общение по теме iOS-разработки, Objective-C, Swift, SDK, Cocoa и т.д.
 - [Android Developers](https://telegram.me/android_ru) - общение по теме Android-разработки, SDK, Kotlin, Realm и т.д.
 - [Mobile Jobs](https://telegram.me/mobile_jobs) - аналитика, вакансии и запросы на поиск работы по направлению iOS, Android, Xamarin и т.д
