@@ -15,6 +15,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [DevOps News](https://telegram.me/devops_news) - О Devops и всём, что рядом. Лучшие практики от Netflix, Uber и т.д. 
 - [Code News](https://telegram.me/code_news) - Программирование, алгоритмы, лайфхаки, архитектура.
 - [Hacker News](https://telegram.me/hacker_news_feed) - Top stories from Hacker News.
+- [iOS Good Reads](https://telegram.me/iosgr) - Лучшие материалы по iOS разработке.
 
 #### Supergroups
 
@@ -27,6 +28,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [JavaScript Jobs](https://telegram.me/javascript_jobs)
 - [@flowtype_ru](https://telegram.me/flowtype_ru) - Flow type static checker for JS
 - [iOS Developers](https://telegram.me/ios_ru) - общение по теме iOS-разработки, Objective-C, Swift, SDK, Cocoa и т.д.
+- [iOS Good Talks](https://telegram.me/iosgt) - обсуждение статей канала iOS Good Reads. 
 - [Android Developers](https://telegram.me/android_ru) - общение по теме Android-разработки, SDK, Kotlin, Realm и т.д.
 - [Mobile Jobs](https://telegram.me/mobile_jobs) - аналитика, вакансии и запросы на поиск работы по направлению iOS, Android, Xamarin и т.д
 - [JSlang](https://telegram.me/JSlang)
