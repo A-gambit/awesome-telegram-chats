@@ -16,6 +16,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Code News](https://telegram.me/code_news) - Программирование, алгоритмы, лайфхаки, архитектура.
 - [Hacker News](https://telegram.me/hacker_news_feed) - Top stories from Hacker News.
 - [iOS Good Reads](https://telegram.me/iosgr) - Лучшие материалы по iOS разработке.
+- [Technologique](https://t.me/technologique) — "Нажми на кнопку, получишь результат": Технологии программирования и разработки
 - [Tehnojam.pro](https://t.me/tehnojam) - Канал сайта Tehnojam.pro - Вкус высоких технологи
 
 #### Supergroups
