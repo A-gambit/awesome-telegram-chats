@@ -12,11 +12,12 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [For Web](https://telegram.me/forwebdev)
 - [Веб-стандарты](https://telegram.me/webstandards_ru)
 - [Библиотека программиста](https://telegram.me/proglibrary)
-- [DevOps News](https://telegram.me/devops_news) - О Devops и всём, что рядом. Лучшие практики от Netflix, Uber и т.д. 
+- [DevOps News](https://telegram.me/devops_news) - О Devops и всём, что рядом. Лучшие практики от Netflix, Uber и т.д.
 - [Code News](https://telegram.me/code_news) - Программирование, алгоритмы, лайфхаки, архитектура.
 - [Hacker News](https://telegram.me/hacker_news_feed) - Top stories from Hacker News.
 - [iOS Good Reads](https://telegram.me/iosgr) - Лучшие материалы по iOS разработке.
 - [Technologique](https://t.me/technologique) — "Нажми на кнопку, получишь результат": Технологии программирования и разработки
+- [Tehnojam.pro](https://t.me/tehnojam) - Канал сайта Tehnojam.pro - Вкус высоких технологи
 
 #### Supergroups
 
@@ -66,6 +67,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
 - [DBA_RU](https://telegram.me/dba_ru)
 - [Group Linux](https://telegram.me/grouplinux)
+- [Manjaro [ru]](https://t.me/manjarolinux)
 - [Networking](https://telegram.me/ntwrk)
 - [DEF CON](https://telegram.me/DC7499)
 - [GNU](https://telegram.me/gentoochuu)
@@ -88,12 +90,13 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) - Криптовалюты, mesh и другие средства личной свободы
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 - [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
-- [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.   
+- [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.
 - [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
 - [Политика](https://telegram.me/ru_politics) - Политические обсуждения
 - [Про электронику](https://telegram.me/ru_electronics) - QA чат для решения вопросов, связанных с электроникой. Без стикеров, непрошенной рекламы и игр в русский форум
 - [Анархическая электроника](https://telegram.me/ru_arduino) - около и электронные темы. без переходов на личности, стен стикеров, политики, непрошенной рекламы и всякого такого
 - [NN JS](https://telegram.me/js_nn) – Сообщество JavaScript программистов Нижнего Новгорода
+- [GraphQL](https://telegram.me/graphql_ru)
 
 ## BeerJS
 
