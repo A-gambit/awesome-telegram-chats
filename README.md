@@ -16,6 +16,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Code News](https://telegram.me/code_news) - Программирование, алгоритмы, лайфхаки, архитектура.
 - [Hacker News](https://telegram.me/hacker_news_feed) - Top stories from Hacker News.
 - [iOS Good Reads](https://telegram.me/iosgr) - Лучшие материалы по iOS разработке.
+- [Tehnojam.pro](https://t.me/tehnojam) - Канал сайта Tehnojam.pro - Вкус высоких технологи
 
 #### Supergroups
 
@@ -65,6 +66,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
 - [DBA_RU](https://telegram.me/dba_ru)
 - [Group Linux](https://telegram.me/grouplinux)
+- [Manjaro [ru]](https://t.me/manjarolinux)
 - [Networking](https://telegram.me/ntwrk)
 - [DEF CON](https://telegram.me/DC7499)
 - [GNU](https://telegram.me/gentoochuu)
