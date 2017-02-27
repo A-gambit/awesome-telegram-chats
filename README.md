@@ -85,7 +85,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Android RX](https://telegram.me/joinchat/AwzlGwe-NNaCtH4N1EQpjw)
 - [Android Kotlin](https://telegram.me/joinchat/AwzlGwh_SbAgL5uPwENsCg)
 - [Android Testing](https://telegram.me/joinchat/AwzlGwgaAeI5viENj1fuYA)
-- [Android JOB](https://telegram.me/joinchat/AwzlGwbLr3mxFZ0vtD8OZQ)
+- [Android JOB](https://telegram.me/android_jobs)
 - [Freelancers & Remote workers](https://telegram.me/ru_freelancers) - Чат практикующих и интересующихся удаленной работой и самозанятостью
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) - Криптовалюты, mesh и другие средства личной свободы
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
