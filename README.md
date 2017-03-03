@@ -97,6 +97,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Анархическая электроника](https://telegram.me/ru_arduino) - около и электронные темы. без переходов на личности, стен стикеров, политики, непрошенной рекламы и всякого такого
 - [NN JS](https://telegram.me/js_nn) – Сообщество JavaScript программистов Нижнего Новгорода
 - [GraphQL](https://telegram.me/graphql_ru)
+- [LineageOS RU](https://t.me/Lineageos_ru) - Чат русскоязычного сообщества LineageOS.
 
 ## BeerJS
 
