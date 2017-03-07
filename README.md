@@ -21,6 +21,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 
 #### Supergroups
 
+- [FsharpChat](https://t.me/Fsharp_chat) — F#
 - [React.js](https://telegram.me/react_js)
 - [React Native](https://telegram.me/reactnative_ru)
 - [Angular.js](https://telegram.me/angular_js)
