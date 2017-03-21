@@ -90,7 +90,6 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Freelancers & Remote workers](https://telegram.me/ru_freelancers) - Чат практикующих и интересующихся удаленной работой и самозанятостью
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) - Криптовалюты, mesh и другие средства личной свободы
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
-- [ХостОбзор](https://telegram.me/hostobzor) — Группа Российских Хостеров, Регистраторов и Датацентров (hostobzor.ru)
 - [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.
 - [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
 - [Политика](https://telegram.me/ru_politics) - Политические обсуждения
