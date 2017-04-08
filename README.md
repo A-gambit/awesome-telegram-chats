@@ -98,6 +98,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [NN JS](https://telegram.me/js_nn) – Сообщество JavaScript программистов Нижнего Новгорода
 - [GraphQL](https://telegram.me/graphql_ru)
 - [LineageOS RU](https://t.me/Lineageos_ru) - Чат русскоязычного сообщества LineageOS.
+- [ru_ASUTP](https://t.me/ru_ASUTP) - АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.
+- [ru_CAD](https://t.me/ru_CAD) - САПР.
 
 ## BeerJS
 
