@@ -72,7 +72,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Networking](https://telegram.me/ntwrk)
 - [DEF CON](https://telegram.me/DC7499)
 - [GNU](https://telegram.me/gentoochuu)
-- [Scala] (https://telegram.me/joinchat/AaPKaj2kTiOww7NAqYHabQ)
+- [Scala](https://telegram.me/joinchat/AaPKaj2kTiOww7NAqYHabQ)
 - [SPB Python](https://telegram.me/spbpython)
 - [Groups/Conference](https://telegram.me/spbpython)
 - [Haskell](https://telegram.me/haskellru)
