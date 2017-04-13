@@ -48,7 +48,6 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [PRO.LUA](https://telegram.me/proLUA)
 - [PRO.Apple](https://telegram.me/proApple)
 - [PRO.Windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw)
-- [PRO.MacOS](https://telegram.me/proMacOS)
 - [PRO.ASM](https://telegram.me/proAsm)
 - [PRO.CSS](https://telegram.me/procss)
 - [PRO.Elixir](https://telegram.me/proelixir)
@@ -101,6 +100,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [LineageOS RU](https://t.me/Lineageos_ru) - Чат русскоязычного сообщества LineageOS.
 - [ru_ASUTP](https://t.me/ru_ASUTP) - АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.
 - [ru_CAD](https://t.me/ru_CAD) - САПР.
+- [macOS](https://t.me/macOS_ru) - Русскоязычное сообщество macOS
 
 ## BeerJS
 
