@@ -48,6 +48,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [PRO.LUA](https://telegram.me/proLUA)
 - [PRO.Apple](https://telegram.me/proApple)
 - [PRO.Windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw)
+- [PRO.MacOS](https://telegram.me/proMacOS)
 - [PRO.ASM](https://telegram.me/proAsm)
 - [PRO.CSS](https://telegram.me/procss)
 - [PRO.Elixir](https://telegram.me/proelixir)
