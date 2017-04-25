@@ -89,6 +89,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Android JOB](https://telegram.me/android_jobs)
 - [Freelancers & Remote workers](https://telegram.me/ru_freelancers) - Чат практикующих и интересующихся удаленной работой и самозанятостью
 - [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) - Криптовалюты, mesh и другие средства личной свободы
+- [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов
 - [Ruby & ROR](https://telegram.me/rubylang) — Ruby Association Certified™
 - [Hosting](https://telegram.me/pro_hosting) — Хостинг и все все все.
 - [Понаехали](https://telegram.me/ponaehali) - Все про жизнь в Москве
