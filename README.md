@@ -103,6 +103,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [ru_CAD](https://t.me/ru_CAD) - САПР.
 - [macOS](https://t.me/macOS_ru) - Русскоязычное сообщество macOS
 - [IT Holywars](https://t.me/it_holywars) — Обсуждения ИТ, оффтоп и холивары
+- [Git](https://t.me/git_ru) — Чат по git
 
 ## BeerJS
 
