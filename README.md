@@ -21,7 +21,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 
 #### Supergroups
 
-- [Rust](https://t.me/rustlang_ru) - Rust — невероятно быстрый системный язык программирования без segfault'ов и с гарантиями потокобезопасности.
+- [Rust](https://t.me/rustlang_ru) - невероятно быстрый системный язык программирования без segfault'ов и с гарантиями потокобезопасности.
 - [FsharpChat](https://t.me/Fsharp_chat) — F#
 - [React.js](https://telegram.me/react_js)
 - [React Native](https://telegram.me/reactnative_ru)
