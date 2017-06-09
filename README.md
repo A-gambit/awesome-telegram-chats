@@ -20,7 +20,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Tehnojam.pro](https://t.me/tehnojam) — Канал сайта Tehnojam.pro — Вкус высоких технологи
 
 #### Supergroups
-
+- [Ruby.Ata](https://t.me/rubyata) — Чат Бишкекского Руби комьюнити.
 - [Rust](https://t.me/rustlang_ru) - невероятно быстрый системный язык программирования без segfault'ов и с гарантиями потокобезопасности.
 - [FsharpChat](https://t.me/Fsharp_chat) — F#
 - [React.js](https://telegram.me/react_js)
