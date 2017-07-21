@@ -19,6 +19,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Technologique](https://t.me/technologique) — "Нажми на кнопку, получишь результат": Технологии программирования и разработки
 - [Tehnojam.pro](https://t.me/tehnojam) — Канал сайта Tehnojam.pro — Вкус высоких технологи
 - [IT-KPI](https://t.me/otkpi) – Канал студенческого IT-community KPI
+- [Gambala.live](https://t.me/gambala_live) – Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни.
 
 #### Supergroups
 - [Ruby.Ata](https://t.me/rubyata) — Чат Бишкекского Руби комьюнити.
