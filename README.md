@@ -107,7 +107,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [IT Holywars](https://t.me/it_holywars) — Обсуждения ИТ, оффтоп и холивары
 - [Git](https://t.me/git_ru) — Чат по git
 - [ru_email](https://t.me/ru_email) — чат про почтовые технологии: exim, dovecot, rspamd, postfix, spamassasin, haraka и борьбу со спамерами
-- [IT-KPI](https:// t.me/itkpi_flood) – чат студенческого IT-community KPI
+- [IT-KPI](https://t.me/itkpi_flood) – чат студенческого IT-community KPI
 
 ## BeerJS
 
