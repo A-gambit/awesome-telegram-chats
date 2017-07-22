@@ -20,6 +20,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Tehnojam.pro](https://t.me/tehnojam) — Канал сайта Tehnojam.pro — Вкус высоких технологи
 - [IT-KPI](https://t.me/otkpi) – Канал студенческого IT-community KPI
 - [Gambala.live](https://t.me/gambala_live) – Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни.
+- [Manjabuntu](https://t.me/chmanjabuntu) - Канал сайта https://manjabuntu.com/ о Linux и IT
+
 
 #### Supergroups
 - [Ruby.Ata](https://t.me/rubyata) — Чат Бишкекского Руби комьюнити.
@@ -108,7 +110,9 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [IT Holywars](https://t.me/it_holywars) — Обсуждения ИТ, оффтоп и холивары
 - [Git](https://t.me/git_ru) — Чат по git
 - [ru_email](https://t.me/ru_email) — чат про почтовые технологии: exim, dovecot, rspamd, postfix, spamassasin, haraka и борьбу со спамерами
-- [IT-KPI](https:// t.me/itkpi_flood) – чат студенческого IT-community KPI
+- [IT-KPI](https://t.me/itkpi_flood) – чат студенческого IT-community KPI
+- [Школа Веб 2.0](https://t.me/webschool_rus_chat) – обсуждаем HTML, CSS, JS, БЭМ, Ruby on Rails, Дизайн, UI/UX, тайм и таск-менеджмент 
+- [Manjabuntu - чат о Linux и IT](https://t.me/manjabuntu) - дружелюбный чат для общения на широкий спектр тем Linux и IT.
 
 ## BeerJS
 
