@@ -24,6 +24,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Sea++](https://t.me/sea_plus_plus) – Интересные материалы из мира C/C++, Python, Go, Linux и не только.
 - [Data Science](https://t.me/opendatascience) — Канал новостей и ссылок про Data Science: нейронные сети, машинное обучение, deel learning.
 - [SPB Frontend](https://t.me/spb_frontend) - Новости фронтенда и питерского сообщества Spb-Frontend
+- [Php offtop](https://t.me/php_ofttop) - Offtopic group with PHP primary language, but you are welcome to speak about any tech, language, etc
 
 
 #### Supergroups
