@@ -120,6 +120,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Manjabuntu - чат о Linux и IT](https://t.me/manjabuntu) - дружелюбный чат для общения на широкий спектр тем Linux и IT.
 - [ITForge](https://t.me/itforge) - чат о python, парсинге сайтов и веб-разработке
 - [Python Community Chelyabinsk](https://t.me/pychel) - чат челябинского сообщества Python-разработчиков
+- [Rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
 
 ## BeerJS
 
