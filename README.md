@@ -26,6 +26,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Data Science](https://t.me/opendatascience) — Канал новостей и ссылок про Data Science: нейронные сети, машинное обучение, deel learning.
 - [SPB Frontend](https://t.me/spb_frontend) - Новости фронтенда и питерского сообщества Spb-Frontend
 - [Php offtop](https://t.me/php_ofttop) - Offtopic group with PHP primary language, but you are welcome to speak about any tech, language, etc
+* [IT-Страна](https://t.me/itbelarus) — IT-новости из Беларуси.
 
 
 #### Supergroups
@@ -120,6 +121,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Manjabuntu - чат о Linux и IT](https://t.me/manjabuntu) - дружелюбный чат для общения на широкий спектр тем Linux и IT.
 - [ITForge](https://t.me/itforge) - чат о python, парсинге сайтов и веб-разработке
 - [Python Community Chelyabinsk](https://t.me/pychel) - чат челябинского сообщества Python-разработчиков
+* [Чат IT-Страны](https://t.me/itbelarustalk) — чат белорусского IT-сообщества.
 
 ## BeerJS
 
