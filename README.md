@@ -30,6 +30,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 
 
 #### Supergroups
+- [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 - [Rubyata](https://t.me/rubyata) — Ruby и Ruby On Rails комьюнити
 - [Rust](https://t.me/rustlang_ru) - невероятно быстрый системный язык программирования без segfault'ов и с гарантиями потокобезопасности.
 - [FsharpChat](https://t.me/Fsharp_chat) — F#
