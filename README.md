@@ -129,6 +129,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Feathers JS](https://t.me/featherjs) — Feathers JS — русскоговорящее сообщество
 - [Angular](https://t.me/angular_ru) — Angular — русскоговорящее сообщество
 - [Angular-universal](https://t.me/angular_universal_ru) — Angular Universal RU
+- [WebDevHeroes](https://t.me/webdevheroes) - сообщество начинающих веб разработчиков
 
 ## BeerJS
 
