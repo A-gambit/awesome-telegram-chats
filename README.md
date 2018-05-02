@@ -26,7 +26,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Data Science](https://t.me/opendatascience) — Канал новостей и ссылок про Data Science: нейронные сети, машинное обучение, deel learning.
 - [SPB Frontend](https://t.me/spb_frontend) - Новости фронтенда и питерского сообщества Spb-Frontend
 - [Php offtop](https://t.me/php_ofttop) - Offtopic group with PHP primary language, but you are welcome to speak about any tech, language, etc
-* [IT-Страна](https://t.me/itbelarus) — IT-новости из Беларуси.
+- [IT-Страна](https://t.me/itbelarus) — IT-новости из Беларуси.
+- [Network Warrior](https://t.me/ntwrkchnnl) - Интересные материалы по SRE/NRE/DevOps/NetDevOps.
 
 
 #### Supergroups
@@ -130,6 +131,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Angular](https://t.me/angular_ru) — Angular — русскоговорящее сообщество
 - [Angular-universal](https://t.me/angular_universal_ru) — Angular Universal RU
 - [WebDevHeroes](https://t.me/webdevheroes) - сообщество начинающих веб разработчиков
+- [ntwrk](https://t.me/ntwrk) - сообщество сетевых инженеров.
 
 ## BeerJS
 
