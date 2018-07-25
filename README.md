@@ -132,6 +132,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Angular-universal](https://t.me/angular_universal_ru) — Angular Universal RU
 - [WebDevHeroes](https://t.me/webdevheroes) - сообщество начинающих веб разработчиков
 - [ntwrk](https://t.me/ntwrk) - сообщество сетевых инженеров.
+- [Hardware & Radio](https://t.me/hwnrf) - Разговоры об электронике, микроконтроллерах, низкоуровневом программировании, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
 
 ## BeerJS
 
