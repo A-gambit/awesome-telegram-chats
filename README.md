@@ -29,8 +29,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [IT-Страна](https://t.me/itbelarus) — IT-новости из Беларуси.
 - [Network Warrior](https://t.me/ntwrkchnnl) - Интересные материалы по SRE/NRE/DevOps/NetDevOps.
 - [Elixir Formula](https://t.me/elixir_formula) - Канал новостей и интересных статей в мире Эликсира.
+- [C# 1001 notes](https://t.me/csharp_1001_notes) - Регулярные короткие заметки по C# и .NET 🔥
 - [Pmdaily](https://t.me/pmdaily) - Канал об управлении проектами и развитии софтскиллов у программистов.
-
 
 #### Supergroups
 - [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
