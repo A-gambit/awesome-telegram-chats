@@ -79,6 +79,10 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [DevOps Jobs](https://telegram.me/devops_jobs)
 - [Codenamecrud](https://telegram.me/codenamecrud) — Ruby/ROR talks
 - [Python RU](https://telegram.me/ru_python)
+- [PiterPy Meetup](https://t.me/piterpy_meetup) — петербургские митапы про Python и мир разработки вокруг
+- [PiterPy Idle](https://t.me/piterpy_idle) — оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
+- [PiterPy Conf](https://t.me/piterpy) — PiterPy Conf, петербургская конференция для разработчиков мира Python
+- [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество женщин в разработке
 - [Modern::Perl](https://telegram.me/modernperl)
 - [RU_Ubuntu](https://telegram.me/ru_ubuntu)
 - [DBA_RU](https://telegram.me/dba_ru)
