@@ -31,6 +31,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Elixir Formula](https://t.me/elixir_formula) - Канал новостей и интересных статей в мире Эликсира.
 - [C# 1001 notes](https://t.me/csharp_1001_notes) - Регулярные короткие заметки по C# и .NET 🔥
 - [Pmdaily](https://t.me/pmdaily) - Канал об управлении проектами и развитии софтскиллов у программистов.
+- [Девелопер расскажет](https://t.me/devtipshere) - Расскажет об интересных ссылках, книгах и о чём-то ещё.
 
 #### Supergroups
 - [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
