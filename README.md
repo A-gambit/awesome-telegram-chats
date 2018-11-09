@@ -32,6 +32,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [C# 1001 notes](https://t.me/csharp_1001_notes) - Регулярные короткие заметки по C# и .NET 🔥
 - [Pmdaily](https://t.me/pmdaily) - Канал об управлении проектами и развитии софтскиллов у программистов.
 - [Девелопер расскажет](https://t.me/devtipshere) - Расскажет об интересных ссылках, книгах и о чём-то ещё.
+- [Cateinum](https://t.me/cateinum) - Коты, коты и только коты. Новое фото каждые 15 минут. 🐈
 
 #### Supergroups
 - [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
