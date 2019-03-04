@@ -32,6 +32,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [C# 1001 notes](https://t.me/csharp_1001_notes) - Регулярные короткие заметки по C# и .NET 🔥
 - [Pmdaily](https://t.me/pmdaily) - Канал об управлении проектами и развитии софтскиллов у программистов.
 - [Девелопер расскажет](https://t.me/devtipshere) - Расскажет об интересных ссылках, книгах и о чём-то ещё.
+- [MoscowCSS](https://t.me/moscowcss) - Канал о регулярных встречах по фронтенду в Москве.
 
 #### Supergroups
 - [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
@@ -54,6 +55,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 - [TypeScript](https://telegram.me/joinchat/CymduD8d8RrQ1-ldWD8VmA)
 - [БЭМ](https://telegram.me/bem_ru)
+- [MoscowCSS Chat](https://t.me/moscowcss_chat) - Чатик митапа moscowcss
 - [PRO.C](https://telegram.me/proCxx)
 - [PRO.JVM](https://telegram.me/JVMchat)
 - [PRO.GO](https://telegram.me/proGo)
