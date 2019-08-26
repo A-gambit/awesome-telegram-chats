@@ -18,7 +18,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [iOS Good Reads](https://telegram.me/iosgr) — Лучшие материалы по iOS разработке.
 - [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
 - [Tehnojam.pro](https://t.me/tehnojam) — Канал сайта Tehnojam.pro — Вкус высоких технологи
-- [IT-KPI](https://t.me/otkpi) – Канал студенческого IT-community KPI
+- [IT-KPI](https://t.me/itkpi) – Канал студенческого IT-community KPI
 - [Gambala.live](https://t.me/gambala_live) – Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни.
 - [pepegramming](https://t.me/pepegramming) – Андеграундный ruby. Dry, hanami, rom и способы борьбы с проблемами в коде.
 - [Manjabuntu](https://t.me/chmanjabuntu) - Канал сайта https://manjabuntu.com/ о Linux и IT
