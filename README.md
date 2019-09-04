@@ -143,12 +143,16 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [WebDevHeroes](https://t.me/webdevheroes) - сообщество начинающих веб разработчиков
 - [ntwrk](https://t.me/ntwrk) - сообщество сетевых инженеров.
 - [Hardware & Radio](https://t.me/hwnrf) - Разговоры об электронике, микроконтроллерах, низкоуровневом программировании, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
+- [Svelte [svelt]](https://t.me/sveltejs) - Русскоязычное сообщество Svelte
+- [Веб-компоненты](https://t.me/webcomponents_ru) - Чат о веб-компонентах, polymer, lit-element и не только
+- [JSNN (GSNN)](https://t.me/js_nn) - Нижегородское JS сообщество
 
 ## BeerJS
 
 - [Москва](https://telegram.me/beerjs)
 - [Киев](https://telegram.me/beerjskyiv)
 - [Харьков](https://telegram.me/beerjskharkiv)
+- [Нижний Новгород](https://t.me/beerjsnn)
 
 ## Contribution
 
