@@ -9,6 +9,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 
 #### Channels
 
+- [Juliarderity](https://t.me/juliarderity) - лучший канал про ECMAScript, WebAssembly, спецификации, web и около
 - [For Web](https://telegram.me/forwebdev)
 - [Веб-стандарты](https://telegram.me/webstandards_ru)
 - [Библиотека программиста](https://telegram.me/proglibrary)
