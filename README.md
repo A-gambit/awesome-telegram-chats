@@ -145,6 +145,12 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [ntwrk](https://t.me/ntwrk) - сообщество сетевых инженеров.
 - [Hardware & Radio](https://t.me/hwnrf) - Разговоры об электронике, микроконтроллерах, низкоуровневом программировании, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
 
+## Blockchain groups
+- [Ethereum Russia](https://t.me/eth_ru) — Общаемся на тему разработки для платформы Ethereum. Smart Contracts, web3.js, Truffle, Solidity и т.д. Обсуждаем идеи, новости. Решаем проблемы.
+- [Ethereum Jobs](https://t.me/eth_jobs) — Публикуем вакансии и запросы на поиск работы по направлению Blockchain, Ethereum, Smart Contracts и т.д.
+
+
+
 ## BeerJS
 
 - [Москва](https://telegram.me/beerjs)
