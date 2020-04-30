@@ -147,6 +147,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Svelte [svelt]](https://t.me/sveltejs) - Русскоязычное сообщество Svelte
 - [Веб-компоненты](https://t.me/webcomponents_ru) - Чат о веб-компонентах, polymer, lit-element и не только
 - [JSNN (GSNN)](https://t.me/js_nn) - Нижегородское JS сообщество
+- [IT_Сочи](https://t.me/it_sochi) - IT сообщество Сочи.
 - [OpensourceFindings](https://t.me/opensource_findings) - Крутые находки из мира opensource! Библиоетки, статьи, и видео.
 
 ## Blockchain groups
@@ -162,6 +163,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Харьков](https://telegram.me/beerjskharkiv)
 - [Днепр](https://t.me/beerjsdnipro)
 - [Нижний Новгород](https://t.me/beerjsnn)
+- [Сочи](https://t.me/sochijs)
 
 ## Contribution
 
