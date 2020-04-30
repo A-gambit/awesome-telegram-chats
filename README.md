@@ -34,6 +34,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Pmdaily](https://t.me/pmdaily) - Канал об управлении проектами и развитии софтскиллов у программистов.
 - [Девелопер расскажет](https://t.me/devtipshere) - Расскажет об интересных ссылках, книгах и о чём-то ещё.
 - [MoscowCSS](https://t.me/moscowcss) - Канал о регулярных встречах по фронтенду в Москве.
+- [Python Daily](https://t.me/pydaily) - Новости о языке программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
 
 #### Supergroups
 - [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
