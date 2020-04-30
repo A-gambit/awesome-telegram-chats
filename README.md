@@ -147,6 +147,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Svelte [svelt]](https://t.me/sveltejs) - Русскоязычное сообщество Svelte
 - [Веб-компоненты](https://t.me/webcomponents_ru) - Чат о веб-компонентах, polymer, lit-element и не только
 - [JSNN (GSNN)](https://t.me/js_nn) - Нижегородское JS сообщество
+- [OpensourceFindings](https://t.me/opensource_findings) - Крутые находки из мира opensource! Библиоетки, статьи, и видео.
 
 ## Blockchain groups
 - [Ethereum Russia](https://t.me/eth_ru) — Общаемся на тему разработки для платформы Ethereum. Smart Contracts, web3.js, Truffle, Solidity и т.д. Обсуждаем идеи, новости. Решаем проблемы.
