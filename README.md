@@ -159,6 +159,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Москва](https://telegram.me/beerjs)
 - [Киев](https://telegram.me/beerjskyiv)
 - [Харьков](https://telegram.me/beerjskharkiv)
+- [Днепр](https://t.me/beerjsdnipro)
 - [Нижний Новгород](https://t.me/beerjsnn)
 
 ## Contribution
