@@ -36,6 +36,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [MoscowCSS](https://t.me/moscowcss) - Канал о регулярных встречах по фронтенду в Москве.
 - [Python Daily](https://t.me/pydaily) - Новости о языке программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
 - [Open Source Future](https://t.me/opensourcefuture) - Подборка интересных open-source проектов. Публикация новостей из мира разработки, событий индустрии и жизни разработчиков.
+- [QuarkusNews](https://t.me/quarkusnews) - Новости и интересные статьи о Quarkus.
 
 #### Supergroups
 - [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
