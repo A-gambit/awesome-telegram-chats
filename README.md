@@ -140,8 +140,8 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
 - [Visual Studio Code](https://t.me/vscode_ru) — Чат настройки и разработки плагинов Visual Studio Code
 - [Yii вакансии](https://t.me/yiijobs) — Yii - вакансии, работа, фриланс
+- [Livewire Ru Laravel](https://t.me/livewire_ru) - Русскоговорящее сообщество Livewire
 - [Laravel вакансии](https://t.me/laraveljob) — Laravel - вакансии, работа, фриланс
-- [Feathers JS](https://t.me/featherjs) — Feathers JS — русскоговорящее сообщество
 - [Angular](https://t.me/angular_ru) — Angular — русскоговорящее сообщество
 - [Angular-universal](https://t.me/angular_universal_ru) — Angular Universal RU
 - [WebDevHeroes](https://t.me/webdevheroes) - сообщество начинающих веб разработчиков
